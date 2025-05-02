@@ -1,1 +1,5 @@
 terminalcontext.txt
+/node_modules
+package.json
+/.qodo
+
